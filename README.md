@@ -1,8 +1,7 @@
 <h2 align="left">Hey, I'm Salman Faris 👋</h2>
 
-###
+### Social Profiles
 
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mmsalmanfaris/" target="_blank">
@@ -17,7 +16,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mmsalmanfaris.mmsalmanfaris&"  />
 </div>
 
-###
+<br clear="both">
+
+### Languages & Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
