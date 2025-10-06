@@ -1,6 +1,4 @@
-<h2 align="left">Hey, I'm Salman Faris 👋</h2>
-
-### Social Profiles
+### SOCIAL PROFILES
 
 
 <div align="left">
@@ -16,9 +14,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mmsalmanfaris.mmsalmanfaris&"  />
 </div>
 
-<br clear="both">
 
-### Languages & Tools
+### LANGUAGES & TOOLS
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -42,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
 
-### Certifications
+### CERTIFICATIONS
 
 <div align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/mmsalmanfaris/FFF1B7141CF791DB?sharingId=studentamb_306583" target="_blank">
@@ -57,7 +54,7 @@
 </div>
 
 
-###
+### CONTRIBUTION STATUS
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mmsalmanfaris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
