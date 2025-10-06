@@ -2,16 +2,19 @@
 
 
 <div align="left">
+  <a href="https://mmsalmanfaris.engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-YELLOW?link=https%3A%2F%2Fmmsalmanfaris.engineer%2F" height="20" alt="linkedin logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/mmsalmanfaris/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&label=&color=0077B5&labelColor=&style=flat" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/mmsalmanfaris/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="20" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=FACEBOOK&label=&color=1877F2&labelColor=&style=flat" height="20" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/mmsalmanfaris/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&label=&color=E4405F&labelColor=&style=flat" height="20" alt="instagram logo"  />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mmsalmanfaris.mmsalmanfaris&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mmsalmanfaris.mmsalmanfaris&left_text=VISITORS"  />
 </div>
 
 
