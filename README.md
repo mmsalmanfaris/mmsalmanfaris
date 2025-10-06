@@ -42,6 +42,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
 
+### Certifications
+
+<div align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mmsalmanfaris/FFF1B7141CF791DB?sharingId=studentamb_306583" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="120" alt="Azure fundamentals - Az-900 Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/47c6ecd7-17c4-49a8-9bc4-4ec82c6ad2ef/public_url" target="_blank">
+    <img src="https://images.credly.com/size/500x500/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="120" alt="GitHub Foundation Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/8bf45562-b7aa-42b0-ac01-8ff7bb2ee583" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2dcd56ce-5614-4c1b-9a90-c3edae738d48" height="120" alt="Microsoft Learn student Ambassador Badge" />
+  </a>
+</div>
+
+
 ###
 
 <div align="left">
