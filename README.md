@@ -45,6 +45,9 @@
 ### CERTIFICATIONS
 
 <div align="left">
+  <a href="https://www.credly.com/badges/97924151-df7c-4b1d-901a-681e946f2bfa/public_url" target="_blank">
+    <img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" height="120" alt="Azure fundamentals - Az-900 Badge" />
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/mmsalmanfaris/FFF1B7141CF791DB?sharingId=studentamb_306583" target="_blank">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="120" alt="Azure fundamentals - Az-900 Badge" />
   </a>
