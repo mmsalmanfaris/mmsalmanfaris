@@ -60,7 +60,4 @@
   <a href="https://www.credly.com/badges/8bf45562-b7aa-42b0-ac01-8ff7bb2ee583" target="_blank">
     <img src="https://github.com/user-attachments/assets/2dcd56ce-5614-4c1b-9a90-c3edae738d48" height="120" alt="Microsoft Learn student Ambassador Badge" />
   </a>
-  <a href="https://www.credly.com/badges/8bf45562-b7aa-42b0-ac01-8ff7bb2ee583" target="_blank">
-    <img src="https://github.com/user-attachments/assets/42f6140d-9db6-436b-9b76-e1ed690e944d" height="120" alt="Microsoft Learn student Ambassador Badge" />
-  </a>
 </div>
