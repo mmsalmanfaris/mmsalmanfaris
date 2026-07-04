@@ -46,7 +46,7 @@
 
 <div align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/mmsalmanfaris/2B0A7329DC44AD03?sharingId=studentamb_306583" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" height="120" alt="microsoft github copilot certification" />
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" height="110" alt="microsoft github copilot certification" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/mmsalmanfaris/2B0A7329DC44AD03?sharingId=studentamb_306583" target="_blank">
     <img src="https://github.com/user-attachments/assets/42f6140d-9db6-436b-9b76-e1ed690e944d" height="120" alt="microsoft security foundation certification" />
